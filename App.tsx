@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Course, courses } from './types';
-import Header from './components/Header';
+import Header from './components/header';
 import CourseSelector from './components/CourseSelector';
 import MainContent from './components/MainContent';
 import TeacherLogin from './components/TeacherLogin';
